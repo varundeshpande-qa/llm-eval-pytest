@@ -1,0 +1,1 @@
+llm-eval-pytest: Learning project: evaluating a RAG chatbot with pytest, DeepEval and RAGAS.
