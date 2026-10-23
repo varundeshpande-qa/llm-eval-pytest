@@ -1,0 +1,9 @@
+.env
+.env.local
+.deepeval/
+.venv/
+__pycache__/
+.pytest_cache/
+*.log
+.idea/
+.vscode/
